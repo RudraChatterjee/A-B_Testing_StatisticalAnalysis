@@ -36,4 +36,9 @@ The data contains information regarding the interaction of users in both groups 
 * **language_preferred** - Language chosen by the user to view the landing page
 
 
+## **Key Findings**
+
+#### Time spent on New page vs old page
+
+![image](https://user-images.githubusercontent.com/50159148/226205517-ac03c8db-ef53-4ba5-b774-151c18af069e.png)
 
