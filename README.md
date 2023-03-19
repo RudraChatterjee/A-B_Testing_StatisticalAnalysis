@@ -42,3 +42,8 @@ The data contains information regarding the interaction of users in both groups 
 
 ![image](https://user-images.githubusercontent.com/50159148/226205517-ac03c8db-ef53-4ba5-b774-151c18af069e.png)
 
+It appears that users spend **greater** time on the NEW page vs OLD page
+
+We performed a one tailed t-test at the 5% significance level. P-value came out to be 0.0001 lower than 0.05.
+Hence there is enough statistical evidence to say time spent by users on new landing page is greater than time spent by users on the old landing page
+
