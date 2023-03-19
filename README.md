@@ -70,9 +70,9 @@ Hence, there was **enough statistical evidence** to say that the conversion rate
 
 - We recommended the e-news express service to adopt the NEW landing page as the de-facto landing page as it could help boost
 
-(a) User engagement (users spend longer duration on the landing page) which could ultimately lead to greater ad-clicks and higher ad-revenue
+-- (a) User engagement (users spend longer duration on the landing page) which could ultimately lead to greater ad-clicks and higher ad-revenue
 
-(b) User conversion rate to subscriber status (Longer user engagaments often leads to higher conversion rates which would generate greater revenue for the e-news service)
+-- (b) User conversion rate to subscriber status (Longer user engagaments often leads to higher conversion rates which would generate greater revenue for the e-news service)
 
 - New landing page can be used in future marketing campaigns designed towards attracting more users to the e-news service.
 
