@@ -44,6 +44,48 @@ The data contains information regarding the interaction of users in both groups 
 
 It appears that users spend **greater** time on the NEW page vs OLD page
 
-We performed a one tailed t-test at the 5% significance level. P-value came out to be 0.0001 lower than 0.05.
-Hence there is enough statistical evidence to say time spent by users on new landing page is greater than time spent by users on the old landing page
+We performed a one tailed t-test at the 5% significance level. 
+
+P-value came out to be 0.0001 lower than 0.05.
+
+Hence there is **enough statistical evidence** to say time spent by users on new landing page is greater than time spent by users on the old landing page
+
+#### Subscriber conversion rate for New Page vs old page
+
+![image](https://user-images.githubusercontent.com/50159148/226205985-4a35de9f-924a-47e5-b3f1-ff457243a212.png)
+
+Proportions of users becoming subscribers is greater for users viewing the new landing page compared to the old landing page. Thus, conversion rate for the new landing page seems to be better than the conversion rate for the old landing page¶
+
+We performed a one tailed Z-test of proportions at 5% significance level
+
+P-value came out to be 0.008 lower than 0.05.
+
+Hence, there was **enough statistical evidence** to say that the conversion rate for users seeing the new landing page is greater than the conversion rate for users seeing the old landing page¶
+
+## Conclusions and Business Recommendations
+
+(1) There was enough statistical evidence to support that users spend greater time on the NEW landing page compared to the OLD landing page
+
+(2) Subscriber Conversion rate for NEW landing page was 66% vs 42% for the OLD landing page.There were enough statistical evidence to also support that conversion rate for users viewing the NEW landing page is higher than conversion rate for users viewing the OLD landing page
+
+(3) We recommended the e-news express service to adopt the NEW landing page as the de-facto landing page as it could help boost
+
+- (a) User engagement (users spend longer duration on the landing page) which could ultimately lead to greater ad-clicks and higher ad-revenue
+
+- (b) User conversion rate to subscriber status (Longer user engagaments often leads to higher conversion rates which would generate greater revenue for the e-news service)
+
+(4) New landing page can be used in future marketing campaigns designed towards attracting more users to the e-news service.
+
+
+(5) There wasn't enough statistical evidence with the current data to support that conversion to subscriber status is dependent on user language preference. Larger sample sizes in future surveys may be required to demonstrate if such a relationship might exist.
+
+(6) There is also not enough statistical evidence to support that the average time spent on the New landing page is different for users with different language preferences.
+
+## Additional Comments/Recommendations
+
+(1) E-news express can run direct unobtrusive surveys to users to ask what they liked about the new Landing page and what kind of content they prefer to see etc. This can help design newer landing pages that improve user engagement and conversions.
+
+(2) It seemed users preferring English were converted to subscribers in slightly larger proportions compared to French/Spanish. Although it was statistically inconclusive that language preference had an effect on conversion rates, surveys can help identify what content Spanish/French users prefer to see and boost the conversion rates for Spanish/French language preferred users.
+
+(3) E-news can also examine other metrics outside of time spent on landing page. Other metrics such as no of website visits in a day, cumulative time spent by user in the website etc may guide useful user behavior that can be captured to improve user engagement and conversion rates
 
